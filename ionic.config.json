@@ -1,0 +1,7 @@
+{
+  "name": "stylesbugios",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
